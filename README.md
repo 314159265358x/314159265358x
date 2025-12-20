@@ -6,6 +6,9 @@ Proficient in TypeScript, C#, PHP and React, Vue, NodeJS and .NET framework.
 [Personal Website](https://suud.cc/about) | [Mail](mailto:314159265358x@gmail.com) | [LinkedIn](https://www.linkedin.com/in/steve-shire-8767942b6/)
 
 ## Work experience
+### Software Engineer at Huna VC Pty Ltd in Sydney, Australia
+I developed and test the Cromojo project in a 4 member group, enabled the ability to running locally, found 2 critical issues in tracker module and completed the document for TinyBird service and ClickHouse SQL.
+
 ### System Administrator at Taite Building in Sydney, Australia
 
 I had deployed and maintained a mail server with StalWart, completed MTA-STS, SPF, DMARC and DKIM record for mail domain, enforced encryption (TLS1.3) for sending and receiving and no email has been flagged as spam by Gmail.
