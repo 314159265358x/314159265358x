@@ -7,7 +7,7 @@ Proficient in TypeScript, C#, PHP and React, Vue, NodeJS and .NET framework.
 
 ## Work experience
 ### Software Engineer at Huna VC Pty Ltd in Sydney, Australia
-I developed and test the Cromojo project in a 4 member group, enabled the ability to running locally, found 2 critical issues in tracker module and completed the document for TinyBird service and ClickHouse SQL.
+I developed and tested the Cromojo project in a 4 member group, enabled the ability to running locally, found 2 critical issues in tracker module and completed the document for TinyBird service and ClickHouse SQL.
 
 ### System Administrator at Taite Building in Sydney, Australia
 
