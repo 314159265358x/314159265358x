@@ -1,13 +1,13 @@
 ## About me
 
-I'm Steve Shire, Software Engineer skilled in creating secure and stable websites using the latest technologies, with 2 years of professional experience. 
-Proficient in TypeScript, C#, PHP and React, Vue, NodeJS and .NET framework.
+I'm Steve Shi, Software Engineer skilled in creating secure and stable websites using the latest technologies, with 2 years of professional experience. 
+Proficient in TypeScript, C#, PHP and React, Vue, NodeJS, Laravel and .NET framework.
 
-[Personal Website](https://suud.cc/about) | [Mail](mailto:314159265358x@gmail.com) | [LinkedIn](https://www.linkedin.com/in/steve-shire-8767942b6/)
+[Personal Website](https://suud.cc/about) | [Mail](mailto:steveshi@acco.cc) | [LinkedIn](https://www.linkedin.com/in/steve-shire-8767942b6/)
 
 ## Work experience
 ### Software Engineer at Huna VC Pty Ltd in Sydney, Australia
-I developed and tested the Cromojo project in a 4 member group, enabled the ability to running locally, found 2 critical issues in tracker module and completed the document for TinyBird service and ClickHouse SQL.
+I developed and tested the Cromojo project in a 4 member group, conmtributed to CI/CD pipeline, deployed staging server, found 2 critical issues in tracker module and completed the document for TinyBird service and ClickHouse SQL.
 
 ### System Administrator at Taite Building in Sydney, Australia
 
@@ -27,9 +27,9 @@ I led the development, testing, deployment, and ongoing maintenance of the Simpl
 ### Simplified Universal User Dashboard (SUUD) at HW & YZ LLP in London, United Kingdom
 
 I developed Single Sign-On (SSO) login portal function and authorise user for all other HW&YZ business sites.
-To implement built-in authentication as well as session function, and developed additional 5 functional modules.
+I implemented built-in authentication as well as session function, and developed additional 5 functional modules.
 
-[Access Service](https://suud.net/) | [Oauth based SSO example](https://github.com/VectorLab/suud-site-cb) | [SAML based SSO example](https://github.com/VectorLab/suud-site-cert)
+[Source Code](https://github.com/dccd62e53295/suud-v1) | [Oauth based SSO example](https://github.com/dccd62e53295/suud-v1-site-cb) | [SAML based SSO example](https://github.com/dccd62e53295/suud-v1-site-cert)
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" height="32" alt="Nuxt" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="32" alt="Vue" />
@@ -44,15 +44,9 @@ I developed a usable CyNER (Cybersecurity Named Entity Recognition) system with 
 detection results from all 4 models
 based on the original version of [CyNER](https://github.com/aiforsec/CyNER) for identifying Cybersecurity keywords in any long text.
 
-[Source code](https://github.com/314159265358x/ECUCyNER)
+[Source code](https://github.com/dccd62e53295/ECUCyNER)
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="32" alt="Flask" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="32" alt="PyTorch" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="32" alt="Tensorflow" />
 </div>
-
-### Interesting
-All my interested things are available at a [seperate space](https://github.com/dccd62e53295).
-
-![Stats](https://github-readme-stats.vercel.app/api?username=314159265358x&show_icons=true&theme=transparent)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=314159265358x&hide=javascript,html,css&theme=transparent)  
